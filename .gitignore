@@ -1,3 +1,4 @@
-user.json
-MyApp/
-Map/
+.idea/
+_test_/
+node_modules/
+
